@@ -39,7 +39,7 @@ Requirements
       ... 20 records
     ]`
   }
-2. The api will return 20 result per request. Follows pagination and make sure you get all data from the api.
+2. The api will return 20 result per request. Follow the pagination and make sure you get all data from the api.
 3. Outputs a CSV file named rick-morty-krom.csv with the columns:
    id|name|status|species|gender|origin_name|location_name|episode_count
    - origin_name = origin.name
