@@ -12,4 +12,8 @@
  */
 
 // TODO: Implement the solution
-console.log('Rick and Morty API Data Fetcher - Implementation needed'); 
+const main = () => {
+  console.log('Rick and Morty API Data Fetcher - Implementation needed'); 
+}
+
+main();

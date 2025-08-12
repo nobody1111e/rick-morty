@@ -36,18 +36,18 @@ Requirements
         "url": "https://rickandmortyapi.com/api/character/1",
         "created": "2017-11-04T18:48:46.250Z"
       },
-      ... 20 records
+      ... 19 more records
     ]`
   }
 2. The api will return 20 result per request. Follow the pagination and make sure you get all data from the api.
-3. Outputs a CSV file named rick-morty-krom.csv with the columns:
-   id|name|status|species|gender|origin_name|location_name|episode_count
+3. Outputs a CSV or txt file named rick-morty-krom with the columns:
+   id|name|email|status|species|gender|origin_name|location_name|episode_count
    - origin_name = origin.name
    - location_name = location.name
    - episode_count = number of episodes the character appears in
-4. Logs a location summary to the console in JSON format:
+4. Logs a origin summary to the console in JSON format:
    {
-     "Earth": {
+     "Earth (C-137)": {
        "alive_count": 100,
        "dead": 200,
        "unknown": 10,
@@ -57,9 +57,11 @@ Requirements
    }
    - alive_share = alive_count / total_count (rounded to 2–3 decimals)
 
-Example CSV Output
+Example CSV or txt Output
 id,name,email,status,species,gender,origin_name,location_name,episode_count
 1,Rick Sanchez,rick.sanchez@gmail.com,Alive,Human,Male,Earth (C-137),Earth (Replacement Dimension),51
+
+look at ./output/example.csv for better understanding of the expected output.
 
 Example Summary Output
 {
@@ -73,5 +75,6 @@ Example Summary Output
 
 Constraints:
 - Must run via node rick-morty.js
-- No external CSV-writing libraries required (optional to use)
+- No external file-writing libraries required (optional to use)
 - Use native Node.js features where possible
+- You can use https://nodejs.org/docs/latest/api for help, but try to solve the problem yourself first
