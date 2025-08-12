@@ -62,6 +62,7 @@ id,name,email,status,species,gender,origin_name,location_name,episode_count
 1,Rick Sanchez,rick.sanchez@gmail.com,Alive,Human,Male,Earth (C-137),Earth (Replacement Dimension),51
 
 look at ./output/example.csv for better understanding of the expected output.
+for email: use the first and last name to create the email id
 
 Example Summary Output
 {
