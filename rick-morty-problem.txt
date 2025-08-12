@@ -1,0 +1,42 @@
+Interview Question – Node.js Coding Task
+
+Create a Node.js script (rick-morty.js) that:
+
+Requirements
+1. Fetches characters from the Rick and Morty API (https://rickandmortyapi.com/api/character/?page=19)
+2. Follows pagination by repeatedly calling info.next until null (20 results per page).
+3. Outputs a CSV file named rick-morty-krom.csv with the columns:
+   id|name|status|species|gender|origin_name|location_name|episode_count
+   - origin_name = origin.name
+   - location_name = location.name
+   - episode_count = number of episodes the character appears in
+4. Logs a location summary to the console in JSON format:
+   {
+     "Earth": {
+       "alive_count": 100,
+       "dead": 200,
+       "unknown": 10,
+       "alive_share": 0.323
+     },
+     ...
+   }
+   - alive_share = alive_count / total_count (rounded to 2–3 decimals)
+
+Example CSV Output
+id|name|status|species|gender|origin_name|location_name|episode_count
+1|Rick Sanchez|Alive|Human|Male|Earth (C-137)|Earth (Replacement Dimension)|51
+
+Example Summary Output
+{
+  "Earth": {
+    "alive_count": 100,
+    "dead": 200,
+    "unknown": 10,
+    "alive_share": 0.323
+  }
+}
+
+Constraints:
+- Must run via node rick-morty.js
+- No external CSV-writing libraries required (optional to use)
+- Use native Node.js features where possible
