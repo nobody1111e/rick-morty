@@ -3,7 +3,42 @@ Interview Question – Node.js Coding Task
 Create a Node.js script (rick-morty.js) that:
 
 Requirements
-1. Fetches characters from the Rick and Morty API (https://rickandmortyapi.com/api/character/?page=19)
+1. Fetches characters from the Rick and Morty API (https://rickandmortyapi.com/api/character/?page=1)
+  e.g. response:
+  {
+    `"info": {
+      "count": 826,
+      "pages": 42,
+      "next": "https://rickandmortyapi.com/api/character/?page=2",
+      "prev": null
+    },
+    "results": [
+      {
+        "id": 1,
+        "name": "Rick Sanchez",
+        "status": "Alive",
+        "species": "Human",
+        "type": "",
+        "gender": "Male",
+        "origin": {
+          "name": "Earth (C-137)",
+          "url": "https://rickandmortyapi.com/api/location/1"
+        },
+        "location": {
+          "name": "Citadel of Ricks",
+          "url": "https://rickandmortyapi.com/api/location/3"
+        },
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "episode": [
+          "https://rickandmortyapi.com/api/episode/1",
+          ...
+        ],
+        "url": "https://rickandmortyapi.com/api/character/1",
+        "created": "2017-11-04T18:48:46.250Z"
+      },
+      ... 20 records
+    ]`
+  }
 2. Follows pagination by repeatedly calling info.next until null (20 results per page).
 3. Outputs a CSV file named rick-morty-krom.csv with the columns:
    id|name|status|species|gender|origin_name|location_name|episode_count
@@ -23,8 +58,8 @@ Requirements
    - alive_share = alive_count / total_count (rounded to 2–3 decimals)
 
 Example CSV Output
-id|name|status|species|gender|origin_name|location_name|episode_count
-1|Rick Sanchez|Alive|Human|Male|Earth (C-137)|Earth (Replacement Dimension)|51
+id,name,email,status,species,gender,origin_name,location_name,episode_count
+1,Rick Sanchez,rick.sanchez@gmail.com,Alive,Human,Male,Earth (C-137),Earth (Replacement Dimension),51
 
 Example Summary Output
 {
