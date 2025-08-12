@@ -2,6 +2,20 @@
 
 A Node.js script that fetches character data from the Rick and Morty API and generates a CSV file with location summaries.
 
+## Getting Started
+
+### Clone the Repository
+
+```bash
+# Using HTTPS (recommended)
+git clone https://github.com/nobody1111e/rick-morty.git
+cd rick-morty
+
+# Or using SSH (if you have SSH keys set up)
+git clone git@github.com:nobody1111e/rick-morty.git
+cd rick-morty
+```
+
 ## Requirements
 
 - Node.js (version 14 or higher recommended)
