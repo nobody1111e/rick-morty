@@ -41,7 +41,7 @@ Requirements
   }
 2. The api will return 20 result per request. Follow the pagination and make sure you get all data from the api.
 3. Outputs a CSV or txt file named rick-morty-krom with the columns:
-   id|name|email|status|species|gender|origin_name|location_name|episode_count
+   id,name,email,status,species,gender,origin_name,location_name,episode_count
    - origin_name = origin.name
    - location_name = location.name
    - episode_count = number of episodes the character appears in
