@@ -1,0 +1,584 @@
+{
+  "Earth (C-137)": {
+    "alive_count": 23,
+    "dead": 9,
+    "unknown": 1,
+    "alive_share": 0.697
+  },
+  "unknown": {
+    "alive_count": 140,
+    "dead": 113,
+    "unknown": 47,
+    "alive_share": 0.467
+  },
+  "Earth (Replacement Dimension)": {
+    "alive_count": 88,
+    "dead": 56,
+    "unknown": 11,
+    "alive_share": 0.568
+  },
+  "Abadango": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Signus 5 Expanse": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Post-Apocalyptic Earth": {
+    "alive_count": 5,
+    "dead": 5,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Purge Planet": {
+    "alive_count": 1,
+    "dead": 3,
+    "unknown": 0,
+    "alive_share": 0.25
+  },
+  "Venzenulon 7": {
+    "alive_count": 0,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Bepis 9": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (C-500A)": {
+    "alive_count": 5,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.833
+  },
+  "Earth (Evil Rick's Target Dimension)": {
+    "alive_count": 4,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.8
+  },
+  "Nuptia 4": {
+    "alive_count": 0,
+    "dead": 4,
+    "unknown": 3,
+    "alive_share": 0
+  },
+  "Fantasy World": {
+    "alive_count": 3,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.75
+  },
+  "Bird World": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Gromflom Prime": {
+    "alive_count": 0,
+    "dead": 3,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Rick's Battery Microverse": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "The Menagerie": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (K-83)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Hideout Planet": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Cronenberg Earth": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 2,
+    "alive_share": 0
+  },
+  "Giant's Town": {
+    "alive_count": 2,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.667
+  },
+  "Unity's Planet": {
+    "alive_count": 5,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Anatomy Park": {
+    "alive_count": 0,
+    "dead": 6,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Earth (J19ζ7)": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0
+  },
+  "Roy: A Life Well Lived": {
+    "alive_count": 4,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0.8
+  },
+  "Eric Stoltz Mask Earth": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0
+  },
+  "Glaagablaaga": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Gazorpazorp": {
+    "alive_count": 5,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0.833
+  },
+  "Resort Planet": {
+    "alive_count": 0,
+    "dead": 3,
+    "unknown": 2,
+    "alive_share": 0
+  },
+  "Hamster in Butt World": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (Giant Telepathic Spiders Dimension)": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Alphabetrium": {
+    "alive_count": 3,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.75
+  },
+  "Earth (5-126)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Krootabulon": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Pluto": {
+    "alive_count": 6,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Zeep Xanflorp's Miniverse": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Larva Alien's Planet": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Mr. Goldenfold's dream": {
+    "alive_count": 5,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (K-22)": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Mr. Meeseeks Box": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 2,
+    "alive_share": 0
+  },
+  "Mega Gargantuan Kingdom": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Gear World": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 1,
+    "alive_share": 0.333
+  },
+  "Earth (D-99)": {
+    "alive_count": 0,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Earth (D716)": {
+    "alive_count": 0,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Earth (D716-B)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (D716-C)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (J-22)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Planet Squanch": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0.5
+  },
+  "Detoxifier": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Kyle's Teenyverse": {
+    "alive_count": 0,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Trunk World": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Plopstar": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Girvonesk": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Snuffles' Dream": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Interdimensional Cable": {
+    "alive_count": 12,
+    "dead": 1,
+    "unknown": 3,
+    "alive_share": 0.75
+  },
+  "Earth (Phone Dimension)": {
+    "alive_count": 3,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (Pizza Dimension)": {
+    "alive_count": 2,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Greasy Grandma World": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (Chair Dimension)": {
+    "alive_count": 4,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Testicle Monster Dimension": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Árboles Mentirosos": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Citadel of Ricks": {
+    "alive_count": 2,
+    "dead": 3,
+    "unknown": 2,
+    "alive_share": 0.286
+  },
+  "Earth (Fascist Dimension)": {
+    "alive_count": 1,
+    "dead": 4,
+    "unknown": 0,
+    "alive_share": 0.2
+  },
+  "Earth (Fascist Shrimp Dimension)": {
+    "alive_count": 3,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.75
+  },
+  "Earth (Fascist Teddy Bear Dimension)": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Earth (Wasp Dimension)": {
+    "alive_count": 5,
+    "dead": 2,
+    "unknown": 1,
+    "alive_share": 0.625
+  },
+  "Midland Quasar": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Globaflyn": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Mount Olympus": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Plitzville Montana": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Earth (Tusk Dimension)": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Gramuflack": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Draygon": {
+    "alive_count": 6,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.857
+  },
+  "Snake Planet": {
+    "alive_count": 6,
+    "dead": 4,
+    "unknown": 4,
+    "alive_share": 0.429
+  },
+  "Story Train": {
+    "alive_count": 24,
+    "dead": 4,
+    "unknown": 1,
+    "alive_share": 0.828
+  },
+  "Tickets Please Guy Nightmare": {
+    "alive_count": 0,
+    "dead": 7,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Morty’s Story": {
+    "alive_count": 5,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.833
+  },
+  "Ricks’s Story": {
+    "alive_count": 5,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Glorzo Asteroid": {
+    "alive_count": 0,
+    "dead": 7,
+    "unknown": 1,
+    "alive_share": 0
+  },
+  "Merged Universe": {
+    "alive_count": 2,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Near-Duplicate Reality": {
+    "alive_count": 5,
+    "dead": 0,
+    "unknown": 2,
+    "alive_share": 0.714
+  },
+  "Gaia": {
+    "alive_count": 3,
+    "dead": 0,
+    "unknown": 1,
+    "alive_share": 0.75
+  },
+  "The Ocean": {
+    "alive_count": 2,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.667
+  },
+  "Narnia Dimension": {
+    "alive_count": 2,
+    "dead": 10,
+    "unknown": 0,
+    "alive_share": 0.167
+  },
+  "Elemental Rings": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Morglutz": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Morty": {
+    "alive_count": 1,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.5
+  },
+  "Hell": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 7,
+    "alive_share": 0
+  },
+  "Space Tahoe": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "France": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Birdperson's Consciousness": {
+    "alive_count": 1,
+    "dead": 5,
+    "unknown": 0,
+    "alive_share": 0.167
+  },
+  "Avian Planet": {
+    "alive_count": 0,
+    "dead": 2,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Normal Size Bug Dimension": {
+    "alive_count": 2,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.667
+  },
+  "Slartivart": {
+    "alive_count": 0,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0
+  },
+  "Ferkus 9": {
+    "alive_count": 1,
+    "dead": 0,
+    "unknown": 0,
+    "alive_share": 1
+  },
+  "Rick and Two Crows Planet": {
+    "alive_count": 2,
+    "dead": 1,
+    "unknown": 0,
+    "alive_share": 0.667
+  },
+  "Earth (Unknown dimension)": {
+    "alive_count": 0,
+    "dead": 0,
+    "unknown": 4,
+    "alive_share": 0
+  }
+}

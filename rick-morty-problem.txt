@@ -46,7 +46,7 @@ Requirements
    - origin_name = origin.name
    - location_name = location.name
    - episode_count = number of episodes the character appears in
-4. Log an origin summary to the console in JSON format:
+4. Log an origin summary to the console in JSON format (use console log only dont need to create json file):
    {
      "Earth (C-137)": {
        "alive_count": 100,
@@ -62,10 +62,10 @@ Example CSV or txt Output
 id,name,email,status,species,gender,origin_name,location_name,episode_count
 1,Rick Gun Sanchez,rick.sanchez@krom.id,Alive,Human,Male,Earth (C-137),Earth (Replacement Dimension),51
 
-look at ./output/example.csv for better understanding of the expected output.
+look at ./output_example directory for better understanding of the expected output.
 for email: use the first and last name to create the email id
 
-Example Summary Output
+Example Summary Output (use console log only dont need to create json file)
 {
   "Earth": {
     "alive_count": 100,

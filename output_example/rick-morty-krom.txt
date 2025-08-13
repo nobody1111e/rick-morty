@@ -1,0 +1,827 @@
+id,name,email,status,species,gender,origin_name,location_name,episode_count
+1,Rick Sanchez,rick.sanchez@krom.id,Alive,Human,Male,Earth (C-137),Citadel of Ricks,51
+2,Morty Smith,morty.smith@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,51
+3,Summer Smith,summer.smith@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),42
+4,Beth Smith,beth.smith@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),42
+5,Jerry Smith,jerry.smith@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),39
+6,Abadango Cluster Princess,abadango.princess@krom.id,Alive,Alien,Female,Abadango,Abadango,1
+7,Abradolf Lincler,abradolf.lincler@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Testicle Monster Dimension,2
+8,Adjudicator Rick,adjudicator.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+9,Agency Director,agency.director@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+10,Alan Rails,alan.rails@krom.id,Dead,Human,Male,unknown,Worldender's lair,1
+11,Albert Einstein,albert.einstein@krom.id,Dead,Human,Male,Earth (C-137),Earth (Replacement Dimension),1
+12,Alexander,alexander.alexander@krom.id,Dead,Human,Male,Earth (C-137),Anatomy Park,1
+13,Alien Googah,alien.googah@krom.id,unknown,Alien,unknown,unknown,Earth (Replacement Dimension),1
+14,Alien Morty,alien.morty@krom.id,unknown,Alien,Male,unknown,Citadel of Ricks,1
+15,Alien Rick,alien.rick@krom.id,unknown,Alien,Male,unknown,Citadel of Ricks,1
+16,Amish Cyborg,amish.cyborg@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+17,Annie,annie.annie@krom.id,Alive,Human,Female,Earth (C-137),Anatomy Park,1
+18,Antenna Morty,antenna.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,2
+19,Antenna Rick,antenna.rick@krom.id,unknown,Human,Male,unknown,unknown,1
+20,Ants in my Eyes Johnson,ants.johnson@krom.id,unknown,Human,Male,unknown,Interdimensional Cable,1
+21,Aqua Morty,aqua.morty@krom.id,unknown,Humanoid,Male,unknown,Citadel of Ricks,2
+22,Aqua Rick,aqua.rick@krom.id,unknown,Humanoid,Male,unknown,Citadel of Ricks,3
+23,Arcade Alien,arcade.alien@krom.id,unknown,Alien,Male,unknown,Immortality Field Resort,5
+24,Armagheadon,armagheadon.armagheadon@krom.id,Alive,Alien,Male,Signus 5 Expanse,Signus 5 Expanse,1
+25,Armothy,armothy.armothy@krom.id,Dead,unknown,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+26,Arthricia,arthricia.arthricia@krom.id,Alive,Alien,Female,Purge Planet,Purge Planet,1
+27,Artist Morty,artist.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,2
+28,Attila Starwar,attila.starwar@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,3
+29,Baby Legs,baby.legs@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+30,Baby Poopybutthole,baby.poopybutthole@krom.id,Alive,Poopybutthole,Male,unknown,unknown,1
+31,Baby Wizard,baby.wizard@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+32,Bearded Lady,bearded.lady@krom.id,Dead,Alien,Female,unknown,Earth (Replacement Dimension),1
+33,Beebo,beebo.beebo@krom.id,Dead,Alien,Male,Venzenulon 7,Venzenulon 7,1
+34,Benjamin,benjamin.benjamin@krom.id,Alive,Poopybutthole,Male,unknown,Interdimensional Cable,3
+35,Bepisian,bepisian.bepisian@krom.id,Alive,Alien,unknown,Bepis 9,Bepis 9,4
+36,Beta-Seven,beta-seven.beta-seven@krom.id,Alive,Alien,unknown,unknown,unknown,1
+37,Beth Sanchez,beth.sanchez@krom.id,Alive,Human,Female,Earth (C-500A),Earth (C-500A),1
+38,Beth Smith,beth.smith@krom.id,Alive,Human,Female,Earth (C-137),Earth (C-137),8
+39,Beth Smith,beth.smith@krom.id,Alive,Human,Female,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),1
+40,Beth's Mytholog,beth's.mytholog@krom.id,Dead,Mythological Creature,Female,Nuptia 4,Nuptia 4,1
+41,Big Boobed Waitress,big.waitress@krom.id,Alive,Mythological Creature,Female,Fantasy World,Fantasy World,1
+42,Big Head Morty,big.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+43,Big Morty,big.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+44,Body Guard Morty,body.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+45,Bill,bill.bill@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),1
+46,Bill,bill.bill@krom.id,unknown,Animal,Male,Earth (Replacement Dimension),unknown,1
+47,Birdperson,birdperson.birdperson@krom.id,Alive,Alien,Male,Bird World,Planet Squanch,7
+48,Black Rick,black.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,2
+49,Blamph,blamph.blamph@krom.id,Alive,Alien,unknown,unknown,Interdimensional Cable,1
+50,Blim Blam,blim.blam@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+51,Blue Diplomat,blue.diplomat@krom.id,Alive,Alien,Male,unknown,Interdimensional Cable,1
+52,Blue Footprint Guy,blue.guy@krom.id,Dead,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+53,Blue Shirt Morty,blue.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+54,Bobby Moynihan,bobby.moynihan@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+55,Boobloosian,boobloosian.boobloosian@krom.id,Dead,Alien,unknown,unknown,Nuptia 4,2
+56,Bootleg Portal Chemist Rick,bootleg.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+57,Borpocian,borpocian.borpocian@krom.id,Alive,Alien,Male,unknown,unknown,1
+58,Brad,brad.brad@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),4
+59,Brad Anderson,brad.anderson@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+60,Calypso,calypso.calypso@krom.id,Dead,Human,Female,unknown,unknown,1
+61,Campaign Manager Morty,campaign.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+62,Canklanker Thom,canklanker.thom@krom.id,Dead,Alien,Male,Gromflom Prime,unknown,1
+63,Centaur,centaur.centaur@krom.id,Alive,Mythological Creature,Male,unknown,Mr. Goldenfold's dream,1
+64,Chris,chris.chris@krom.id,Dead,Alien,unknown,unknown,Earth (Replacement Dimension),1
+65,Chris,chris.chris@krom.id,Alive,Humanoid,Male,Rick's Battery Microverse,Rick's Battery Microverse,1
+66,Coach Feratu (Balik Alistane),coach.alistane)@krom.id,Dead,Mythological Creature,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+67,Collector,collector.collector@krom.id,Alive,Alien,Male,The Menagerie,The Menagerie,1
+68,Colossus,colossus.colossus@krom.id,Dead,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+69,Commander Rick,commander.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+70,Concerto,concerto.concerto@krom.id,Dead,Humanoid,Male,unknown,unknown,1
+71,Conroy,conroy.conroy@krom.id,Dead,Robot,unknown,Earth (Replacement Dimension),Earth (C-137),1
+72,Cool Rick,cool.rick@krom.id,Alive,Human,Male,Earth (K-83),Citadel of Ricks,1
+73,Cop Morty,cop.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+74,Cop Rick,cop.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+75,Courier Flap,courier.flap@krom.id,Alive,Alien,unknown,unknown,Planet Squanch,1
+76,Cousin Nicky,cousin.nicky@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+77,Cowboy Morty,cowboy.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+78,Cowboy Rick,cowboy.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,2
+79,Crab Spider,crab.spider@krom.id,Alive,Alien,unknown,Hideout Planet,Hideout Planet,1
+80,Creepy Little Girl,creepy.girl@krom.id,Alive,Human,Female,unknown,Mr. Goldenfold's dream,1
+81,Crocubot,crocubot.crocubot@krom.id,Dead,Animal,Male,unknown,Worldender's lair,1
+82,Cronenberg Rick,cronenberg.rick@krom.id,unknown,Cronenberg,Male,Cronenberg Earth,Earth (C-137),2
+83,Cronenberg Morty,cronenberg.morty@krom.id,unknown,Cronenberg,Male,Cronenberg Earth,Earth (C-137),2
+84,Cult Leader Morty,cult.morty@krom.id,Alive,Human,Male,unknown,Hideout Planet,1
+85,Cyclops Morty,cyclops.morty@krom.id,Alive,Humanoid,Male,unknown,Citadel of Ricks,2
+86,Cyclops Rick,cyclops.rick@krom.id,Dead,Humanoid,Male,unknown,Citadel of Ricks,3
+87,Cynthia,cynthia.cynthia@krom.id,Dead,Alien,Female,unknown,Zigerion's Base,1
+88,Cynthia,cynthia.cynthia@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),4
+89,Dale,dale.dale@krom.id,Dead,Mythological Creature,Male,Giant's Town,Giant's Town,1
+90,Daron Jefferson,daron.jefferson@krom.id,Alive,Alien,Male,Unity's Planet,Unity's Planet,1
+91,David Letterman,david.letterman@krom.id,Alive,Human,Male,Earth (C-500A),Earth (C-500A),1
+92,Davin,davin.davin@krom.id,Dead,Human,Male,Earth (C-137),Earth (C-137),2
+93,Diablo Verde,diablo.verde@krom.id,Dead,Mythological Creature,Male,unknown,Dorian 5,1
+94,Diane Sanchez,diane.sanchez@krom.id,Dead,Human,Female,Earth (C-137),Rick's Memories,2
+95,Dipper and Mabel Mortys,dipper.mortys@krom.id,unknown,Human,unknown,unknown,Citadel of Ricks,1
+96,Tuberculosis,tuberculosis.tuberculosis@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+97,Gonorrhea,gonorrhea.gonorrhea@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+98,Hepatitis A,hepatitis.a@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+99,Hepatitis C,hepatitis.c@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+100,Bubonic Plague,bubonic.plague@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+101,E. Coli,e..coli@krom.id,Dead,Disease,unknown,Anatomy Park,Anatomy Park,1
+102,Donna Gueterman,donna.gueterman@krom.id,Dead,Robot,Female,unknown,Planet Squanch,1
+103,Doofus Rick,doofus.rick@krom.id,unknown,Human,Male,Earth (J19ζ7),Earth (Replacement Dimension),2
+104,Doom-Nomitron,doom-nomitron.doom-nomitron@krom.id,Dead,Alien,unknown,unknown,Dorian 5,1
+105,Dr. Glip-Glop,dr..glip-glop@krom.id,Dead,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+106,Dr. Schmidt,dr..schmidt@krom.id,unknown,Human,Male,Roy: A Life Well Lived,Roy: A Life Well Lived,1
+107,Dr. Wong,dr..wong@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+108,Dr. Xenon Bloom,dr..bloom@krom.id,Dead,Humanoid,Male,unknown,Anatomy Park,1
+109,Duck With Muscles,duck.muscles@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+110,Eli,eli.eli@krom.id,Alive,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+111,Eli's Girlfriend,eli's.girlfriend@krom.id,Alive,Human,Female,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+112,Eric McMan,eric.mcman@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),1
+113,Eric Stoltz Mask Morty,eric.morty@krom.id,unknown,Human,Male,Eric Stoltz Mask Earth,Earth (Replacement Dimension),1
+114,Ethan,ethan.ethan@krom.id,unknown,Human,Male,Earth (C-137),Earth (C-137),1
+115,Ethan,ethan.ethan@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+116,Evil Beth Clone,evil.clone@krom.id,Dead,Human,Female,unknown,Earth (C-137),1
+117,Evil Jerry Clone,evil.clone@krom.id,Dead,Human,Male,unknown,Earth (C-137),1
+118,Evil Morty,evil.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,3
+119,Evil Rick,evil.rick@krom.id,Dead,Humanoid,Male,unknown,Citadel of Ricks,1
+120,Evil Summer Clone,evil.clone@krom.id,Dead,Human,Female,unknown,Earth (C-137),1
+121,Eyehole Man,eyehole.man@krom.id,Alive,Alien,Male,unknown,Interdimensional Cable,1
+122,Fart,fart.fart@krom.id,Dead,Alien,Male,unknown,unknown,1
+123,Fat Morty,fat.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+124,Father Bob,father.bob@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+125,Flansian,flansian.flansian@krom.id,Alive,Alien,unknown,unknown,Planet Squanch,3
+126,Fleeb,fleeb.fleeb@krom.id,unknown,Alien,unknown,unknown,Interdimensional Cable,1
+127,Frank Palicky,frank.palicky@krom.id,Dead,Human,Male,Earth (C-137),Earth (C-137),1
+128,Frankenstein's Monster,frankenstein's.monster@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+129,Fulgora,fulgora.fulgora@krom.id,Alive,Human,Female,unknown,Interdimensional Cable,3
+130,Galactic Federation President,galactic.president@krom.id,Dead,Alien,Male,unknown,unknown,1
+131,Gar Gloonch,gar.gloonch@krom.id,Dead,Alien,Male,unknown,Nuptia 4,3
+132,Gar's Mytholog,gar's.mytholog@krom.id,Dead,Mythological Creature,Male,Nuptia 4,Nuptia 4,1
+133,Garblovian,garblovian.garblovian@krom.id,Alive,Alien,Male,Glaagablaaga,unknown,3
+134,Garmanarnar,garmanarnar.garmanarnar@krom.id,Alive,Alien,Male,unknown,Interdimensional Cable,1
+135,Garment District Rick,garment.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+136,Gazorpazorpfield,gazorpazorpfield.gazorpazorpfield@krom.id,Alive,Alien,Male,Gazorpazorp,Interdimensional Cable,2
+137,Gene,gene.gene@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+138,General Nathan,general.nathan@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+139,General Store Owner,general.owner@krom.id,Dead,Alien,Male,Purge Planet,Purge Planet,1
+140,Genital Washer,genital.washer@krom.id,Alive,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+141,Ghost in a Jar,ghost.jar@krom.id,Dead,Alien,Genderless,unknown,Earth (Replacement Dimension),1
+142,Gibble Snake,gibble.snake@krom.id,Dead,Alien,unknown,Resort Planet,Resort Planet,1
+143,Glasses Morty,glasses.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+144,Glenn,glenn.glenn@krom.id,Dead,Alien,Male,unknown,Interdimensional Customs,1
+145,Glenn,glenn.glenn@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+146,Glexo Slim Slom,glexo.slom@krom.id,Alive,Alien,Male,unknown,Nuptia 4,1
+147,Gobo,gobo.gobo@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+148,Goddess Beth,goddess.beth@krom.id,unknown,Mythological Creature,Female,Nuptia 4,Nuptia 4,1
+149,Gordon Lunas,gordon.lunas@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+150,Cornvelious Daniel,cornvelious.daniel@krom.id,Dead,Alien,Male,unknown,Galactic Federation Prison,1
+151,Gwendolyn,gwendolyn.gwendolyn@krom.id,unknown,Robot,Female,Gazorpazorp,Earth (Replacement Dimension),1
+152,Hammerhead Morty,hammerhead.morty@krom.id,unknown,Humanoid,Male,unknown,Citadel of Ricks,2
+153,Hamster In Butt,hamster.butt@krom.id,Alive,Animal,unknown,Hamster in Butt World,Hamster in Butt World,2
+154,Hamurai,hamurai.hamurai@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+155,Harold,harold.harold@krom.id,Alive,Cronenberg,Male,Earth (C-137),Earth (C-137),1
+156,Hemorrhage,hemorrhage.hemorrhage@krom.id,Alive,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+157,Hole in the Wall Where the Men Can See it All,hole.all@krom.id,unknown,unknown,Genderless,unknown,Interdimensional Cable,1
+158,Hookah Alien,hookah.alien@krom.id,Alive,Alien,unknown,unknown,Interdimensional Customs,1
+159,Hunter,hunter.hunter@krom.id,Dead,Human,Male,Earth (Giant Telepathic Spiders Dimension),Earth (Giant Telepathic Spiders Dimension),1
+160,Hunter's Father,hunter's.father@krom.id,Alive,Human,Male,Earth (Giant Telepathic Spiders Dimension),Earth (Giant Telepathic Spiders Dimension),1
+161,Hydrogen-F,hydrogen-f.hydrogen-f@krom.id,Alive,Alien,Female,Alphabetrium,Alphabetrium,1
+162,Ice-T,ice-t.ice-t@krom.id,Alive,Alien,Male,Alphabetrium,Alphabetrium,1
+163,Ideal Jerry,ideal.jerry@krom.id,Dead,Mythological Creature,Male,Nuptia 4,Nuptia 4,1
+164,Insurance Rick,insurance.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+165,Investigator Rick,investigator.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+166,Invisi-trooper,invisi-trooper.invisi-trooper@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+167,Izzy,izzy.izzy@krom.id,Alive,Animal,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+168,Jackie,jackie.jackie@krom.id,Alive,Alien,Female,Gazorpazorp,Gazorpazorp,1
+169,Jacob,jacob.jacob@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),2
+170,Jacqueline,jacqueline.jacqueline@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+171,Jaguar,jaguar.jaguar@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+172,Jamey,jamey.jamey@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+173,Jan-Michael Vincent,jan-michael.vincent@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+174,Jerry 5-126,jerry.5-126@krom.id,Alive,Human,Male,Earth (5-126),Jerryboree,1
+175,Jerry Smith,jerry.smith@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),7
+176,Celebrity Jerry,celebrity.jerry@krom.id,Alive,Human,Male,Earth (C-500A),Earth (C-500A),1
+177,Jerry Smith,jerry.smith@krom.id,Alive,Human,Male,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),1
+178,Jerry's Mytholog,jerry's.mytholog@krom.id,Dead,Mythological Creature,Male,Nuptia 4,Nuptia 4,1
+179,Jessica,jessica.jessica@krom.id,Alive,Cronenberg,Female,Earth (C-137),Earth (C-137),3
+180,Jessica,jessica.jessica@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),12
+181,Jessica's Friend,jessica's.friend@krom.id,Alive,Human,Female,Earth (C-137),Earth (Replacement Dimension),8
+182,Jim,jim.jim@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+183,Johnny Depp,johnny.depp@krom.id,Alive,Human,Male,Earth (C-500A),Earth (C-500A),1
+184,Jon,jon.jon@krom.id,Alive,Alien,Male,Gazorpazorp,Interdimensional Cable,1
+185,Joseph Eli Lipkip,joseph.lipkip@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+186,Joyce Smith,joyce.smith@krom.id,Alive,Human,Female,Earth (C-137),Earth (C-137),1
+187,Juggling Rick,juggling.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+188,Karen Entity,karen.entity@krom.id,Alive,Alien,Female,Unity's Planet,Unity's Planet,1
+189,Katarina,katarina.katarina@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+190,Keara,keara.keara@krom.id,Alive,Alien,Female,Krootabulon,Earth (Replacement Dimension),1
+191,Kevin,kevin.kevin@krom.id,Dead,Alien,Male,unknown,Zigerion's Base,1
+192,King Flippy Nips,king.nips@krom.id,Alive,Alien,Male,Pluto,Pluto,1
+193,King Jellybean,king.jellybean@krom.id,Dead,Mythological Creature,Male,Fantasy World,Fantasy World,1
+194,Kozbian,kozbian.kozbian@krom.id,Alive,Alien,unknown,unknown,Planet Squanch,1
+195,Kristen Stewart,kristen.stewart@krom.id,Alive,Human,Female,Earth (C-500A),Earth (C-500A),1
+196,Krombopulos Michael,krombopulos.michael@krom.id,Dead,Alien,Male,unknown,unknown,1
+197,Kyle,kyle.kyle@krom.id,Dead,Humanoid,Male,Zeep Xanflorp's Miniverse,Kyle's Teenyverse,1
+198,Lady Katana,lady.katana@krom.id,Dead,Humanoid,Female,unknown,Dorian 5,1
+199,Larva Alien,larva.alien@krom.id,Alive,Alien,unknown,Larva Alien's Planet,Planet Squanch,3
+200,Lawyer Morty,lawyer.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+201,Leonard Smith,leonard.smith@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),1
+202,Lighthouse Keeper,lighthouse.keeper@krom.id,Dead,Alien,Male,Purge Planet,Purge Planet,1
+203,Lil B,lil.b@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),2
+204,Lisa,lisa.lisa@krom.id,Dead,Alien,Female,unknown,Immortality Field Resort,1
+205,Little Dipper,little.dipper@krom.id,Alive,Humanoid,Male,unknown,Interdimensional Cable,1
+206,Lizard Morty,lizard.morty@krom.id,Alive,Humanoid,Male,unknown,Citadel of Ricks,1
+207,Loggins,loggins.loggins@krom.id,Alive,Alien,Male,unknown,Interdimensional Cable,3
+208,Logic,logic.logic@krom.id,Alive,Human,Male,unknown,Worldender's lair,1
+209,Long Sleeved Morty,long.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+210,Lucy,lucy.lucy@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+211,Ma-Sha,ma-sha.ma-sha@krom.id,Alive,Alien,Female,Gazorpazorp,Gazorpazorp,1
+212,Magma-Q,magma-q.magma-q@krom.id,Dead,Alien,Male,Alphabetrium,Alphabetrium,1
+213,Magnesium-J,magnesium-j.magnesium-j@krom.id,Alive,Alien,Male,Alphabetrium,Alphabetrium,1
+214,Man Painted Silver Who Makes Robot Noises,man.noises@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+215,Maximums Rickimus,maximums.rickimus@krom.id,Dead,Human,Male,unknown,Rick's Memories,3
+216,MC Haps,mc.haps@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),3
+217,Mechanical Morty,mechanical.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+218,Mechanical Rick,mechanical.rick@krom.id,unknown,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+219,Mechanical Summer,mechanical.summer@krom.id,unknown,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+220,Mega Fruit Farmer Rick,mega.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+221,Melissa,melissa.melissa@krom.id,Alive,Mythological Creature,Female,Mr. Goldenfold's dream,Mr. Goldenfold's dream,1
+222,Michael Denny and the Denny Singers,michael.singers@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+223,Michael Jenkins,michael.jenkins@krom.id,Dead,Human,Male,unknown,Interdimensional Cable,1
+224,Michael McLick,michael.mclick@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+225,Michael Thompson,michael.thompson@krom.id,Alive,Humanoid,Male,unknown,Interdimensional Cable,1
+226,Million Ants,million.ants@krom.id,Dead,Animal,Male,unknown,Worldender's lair,1
+227,Mitch,mitch.mitch@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+228,Mohawk Guy,mohawk.guy@krom.id,Dead,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+229,Morty Mart Manager Morty,morty.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+230,Morty Jr.,morty.jr.@krom.id,Alive,Humanoid,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+231,Morty Rick,morty.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+232,Morty Smith,morty.smith@krom.id,Alive,Human,Male,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),1
+233,Morty K-22,morty.k-22@krom.id,Alive,Human,Male,Earth (K-22),Earth (Replacement Dimension),1
+234,Morty Smith,morty.smith@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+235,Mortytown Loco,mortytown.loco@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+236,Mr. Beauregard,mr..beauregard@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+237,Mr. Benson,mr..benson@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+238,Mr. Booby Buyer,mr..buyer@krom.id,Alive,Mythological Creature,Male,Fantasy World,Fantasy World,1
+239,Mr. Goldenfold,mr..goldenfold@krom.id,Alive,Cronenberg,Male,Earth (C-137),Earth (C-137),4
+240,Mr. Goldenfold,mr..goldenfold@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),10
+241,Mr. Marklovitz,mr..marklovitz@krom.id,Alive,Human,Male,Earth (C-137),Earth (Replacement Dimension),2
+242,Mr. Meeseeks,mr..meeseeks@krom.id,unknown,Humanoid,Male,Mr. Meeseeks Box,Earth (Fascist Dimension),5
+243,Mr. Needful,mr..needful@krom.id,Alive,Humanoid,Male,unknown,Earth (Replacement Dimension),1
+244,Mr. Poopybutthole,mr..poopybutthole@krom.id,Alive,Poopybutthole,Male,unknown,Earth (Replacement Dimension),7
+245,Mrs. Lipkip,mrs..lipkip@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+246,Mrs. Pancakes,mrs..pancakes@krom.id,Alive,Human,Female,Earth (C-137),Mr. Goldenfold's dream,2
+247,Amy Poopybutthole,amy.poopybutthole@krom.id,Alive,Poopybutthole,Female,unknown,unknown,1
+248,Mrs. Refrigerator,mrs..refrigerator@krom.id,Dead,Alien,Female,unknown,Earth (Replacement Dimension),1
+249,Mrs. Sanchez,mrs..sanchez@krom.id,unknown,Human,Female,unknown,unknown,4
+250,Mrs. Sullivan,mrs..sullivan@krom.id,Dead,Human,Female,Earth (C-500A),Interdimensional Cable,1
+251,Nancy,nancy.nancy@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),6
+252,Noob-Noob,noob-noob.noob-noob@krom.id,Alive,Poopybutthole,Male,unknown,Vindicator's Base,1
+253,Numbericon,numbericon.numbericon@krom.id,unknown,Alien,unknown,unknown,Alphabetrium,1
+254,Octopus Man,octopus.man@krom.id,Alive,Humanoid,Male,unknown,Interdimensional Cable,1
+255,Orthodox Jew,orthodox.jew@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+256,Pat Gueterman,pat.gueterman@krom.id,Dead,Robot,Male,unknown,Planet Squanch,1
+257,Paul Fleishman,paul.fleishman@krom.id,Alive,Human,Male,unknown,Jerryboree,1
+258,Pawnshop Clerk,pawnshop.clerk@krom.id,Alive,Alien,Male,unknown,Pawn Shop Planet,1
+259,Pencilvester,pencilvester.pencilvester@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+260,Phillip Jacobs,phillip.jacobs@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+261,Photography Cyborg,photography.cyborg@krom.id,unknown,Robot,Male,unknown,Planet Squanch,1
+262,Photography Raptor,photography.raptor@krom.id,Dead,Alien,unknown,unknown,Earth (Replacement Dimension),1
+263,Pibbles Bodyguard,pibbles.bodyguard@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+264,Pichael Thompson,pichael.thompson@krom.id,Alive,Humanoid,Male,unknown,Interdimensional Cable,1
+265,Pickle Rick,pickle.rick@krom.id,Alive,unknown,Male,Earth (C-137),Earth (Replacement Dimension),1
+266,Piece of Toast,piece.toast@krom.id,Alive,unknown,Genderless,unknown,Interdimensional Cable,2
+267,Plumber Rick,plumber.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+268,Poncho,poncho.poncho@krom.id,Dead,Human,Male,unknown,Anatomy Park,1
+269,Presidentress of The Mega Gargantuans,presidentress.gargantuans@krom.id,Alive,Humanoid,Female,Mega Gargantuan Kingdom,Mega Gargantuan Kingdom,1
+270,Prince Nebulon,prince.nebulon@krom.id,Dead,Alien,Male,unknown,Zigerion's Base,1
+271,Principal Vagina,principal.vagina@krom.id,Alive,Cronenberg,Male,Earth (C-137),Earth (C-137),3
+272,Principal Vagina,principal.vagina@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),6
+273,Purge Planet Ruler,purge.ruler@krom.id,Dead,Alien,Male,Purge Planet,Purge Planet,1
+274,Quantum Rick,quantum.rick@krom.id,unknown,Human,Male,unknown,Rick's Memories,3
+275,Randy Dicknose,randy.dicknose@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+276,Rat Boss,rat.boss@krom.id,Dead,Animal,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+277,Real Fake Doors Salesman,real.salesman@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+278,Regional Manager Rick,regional.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+279,Regular Legs,regular.legs@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+280,Reverse Giraffe,reverse.giraffe@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+281,Reverse Rick Outrage,reverse.outrage@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+282,Revolio Clockberg Jr.,revolio.jr.@krom.id,unknown,Alien,Male,Gear World,Gear World,3
+283,Rick D. Sanchez III,rick.iii@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+284,Rick Guilt Rick,rick.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+285,Rick Prime,rick.prime@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,2
+286,Rick D-99,rick.d-99@krom.id,Dead,Human,Male,Earth (D-99),Citadel of Ricks,1
+287,Rick D716,rick.d716@krom.id,Dead,Human,Male,Earth (D716),Citadel of Ricks,1
+288,Rick D716-B,rick.d716-b@krom.id,Alive,Human,Male,Earth (D716-B),Citadel of Ricks,1
+289,Rick D716-C,rick.d716-c@krom.id,Alive,Human,Male,Earth (D716-C),Citadel of Ricks,1
+290,Rick Sanchez,rick.sanchez@krom.id,Dead,Human,Male,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),1
+291,Rick J-22,rick.j-22@krom.id,Alive,Human,Male,Earth (J-22),Citadel of Ricks,1
+292,Rick K-22,rick.k-22@krom.id,Alive,Human,Male,Earth (K-22),Earth (Replacement Dimension),1
+293,Rick Sanchez,rick.sanchez@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+294,Ricktiminus Sancheziminius,ricktiminus.sancheziminius@krom.id,Dead,Human,Male,unknown,Rick's Memories,3
+295,Riq IV,riq.iv@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,3
+296,Risotto Groupon,risotto.groupon@krom.id,Dead,Alien,Male,Resort Planet,Resort Planet,1
+297,Risotto's Tentacled Henchman,risotto's.henchman@krom.id,Dead,Alien,Male,Resort Planet,Resort Planet,1
+298,Robot Morty,robot.morty@krom.id,unknown,Robot,Male,unknown,Citadel of Ricks,1
+299,Robot Rick,robot.rick@krom.id,unknown,Robot,Male,unknown,Citadel of Ricks,1
+300,Roger,roger.roger@krom.id,Dead,Human,Male,Earth (C-137),Anatomy Park,1
+301,Ron Benson,ron.benson@krom.id,Alive,Alien,Male,Unity's Planet,Unity's Planet,1
+302,Ruben,ruben.ruben@krom.id,Dead,Human,Male,Earth (C-137),Earth (C-137),1
+303,Samantha,samantha.samantha@krom.id,Alive,Human,Female,Earth (C-137),Earth (C-137),1
+304,Scary Brandon,scary.brandon@krom.id,Alive,Mythological Creature,Male,Mr. Goldenfold's dream,Mr. Goldenfold's dream,1
+305,Scary Glenn,scary.glenn@krom.id,Alive,Mythological Creature,Male,Mr. Goldenfold's dream,Mr. Goldenfold's dream,1
+306,Scary Terry,scary.terry@krom.id,Alive,Mythological Creature,Male,Mr. Goldenfold's dream,Mr. Goldenfold's dream,1
+307,Scroopy Noopers,scroopy.noopers@krom.id,Alive,Alien,Male,Pluto,Pluto,1
+308,Scropon,scropon.scropon@krom.id,unknown,Alien,Male,unknown,Planet Squanch,2
+309,Scrotian,scrotian.scrotian@krom.id,Alive,Animal,Male,unknown,Signus 5 Expanse,4
+310,Self-Congratulatory Jerry,self-congratulatory.jerry@krom.id,unknown,Mythological Creature,Male,Nuptia 4,Nuptia 4,1
+311,Shimshamian,shimshamian.shimshamian@krom.id,Alive,Alien,Male,unknown,Planet Squanch,3
+312,Shlaammi,shlaammi.shlaammi@krom.id,Alive,Alien,unknown,unknown,Interdimensional Cable,1
+313,Shleemypants,shleemypants.shleemypants@krom.id,Alive,unknown,Male,unknown,Snake Planet,2
+314,Shmlamantha Shmlicelli,shmlamantha.shmlicelli@krom.id,Alive,Human,Female,unknown,Interdimensional Cable,1
+315,Shmlangela Shmlobinson-Shmlower,shmlangela.shmlobinson-shmlower@krom.id,Alive,Human,Female,unknown,Interdimensional Cable,1
+316,Shmlona Shmlobinson,shmlona.shmlobinson@krom.id,Alive,Human,Female,unknown,Interdimensional Cable,1
+317,Shmlonathan Shmlower,shmlonathan.shmlower@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+318,Shmlony Shmlicelli,shmlony.shmlicelli@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+319,Shmooglite Runner,shmooglite.runner@krom.id,unknown,Alien,Male,Resort Planet,Resort Planet,1
+320,Shnoopy Bloopers,shnoopy.bloopers@krom.id,unknown,Alien,Male,unknown,Immortality Field Resort,1
+321,Shrimply Pibbles,shrimply.pibbles@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+322,Simple Rick,simple.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+323,Slaveowner,slaveowner.slaveowner@krom.id,Dead,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+324,Sleepy Gary,sleepy.gary@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+325,Slick Morty,slick.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+326,Slippery Stair,slippery.stair@krom.id,Alive,Mythological Creature,Male,Fantasy World,Earth (Replacement Dimension),2
+327,Slow Mobius,slow.mobius@krom.id,Alive,Humanoid,Male,unknown,Earth (Replacement Dimension),1
+328,Slow Rick,slow.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+329,Snuffles (Snowball),snuffles.(snowball)@krom.id,Alive,Animal,Male,Earth (C-137),unknown,8
+330,Solicitor Rick,solicitor.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,2
+331,Squanchy,squanchy.squanchy@krom.id,unknown,Alien,Male,Planet Squanch,Planet Squanch,3
+332,Stacy,stacy.stacy@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+333,Stair Goblin,stair.goblin@krom.id,Alive,Mythological Creature,Genderless,unknown,Fantasy World,3
+334,Stealy,stealy.stealy@krom.id,Alive,Poopybutthole,Male,unknown,Interdimensional Cable,1
+335,Steve,steve.steve@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+336,Steven Phillips,steven.phillips@krom.id,Alive,Alien,Male,Unity's Planet,Unity's Planet,1
+337,Stu,stu.stu@krom.id,Dead,Alien,Male,unknown,Zigerion's Base,1
+338,Summer Smith,summer.smith@krom.id,Alive,Human,Female,Earth (C-137),Earth (C-137),7
+339,Summer Smith,summer.smith@krom.id,Alive,Human,Female,Earth (Evil Rick's Target Dimension),Earth (Evil Rick's Target Dimension),1
+340,Supernova,supernova.supernova@krom.id,Alive,Human,Female,unknown,Worldender's lair,1
+341,Taddy Mason,taddy.mason@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+342,Taint Washer,taint.washer@krom.id,Alive,Human,Male,Post-Apocalyptic Earth,Post-Apocalyptic Earth,1
+343,Tammy Guetermann,tammy.guetermann@krom.id,Alive,Cronenberg,Female,Earth (C-137),Earth (C-137),2
+344,Tammy Guetermann,tammy.guetermann@krom.id,Dead,Human,Female,Earth (Replacement Dimension),NX-5 Planet Remover,5
+345,Teacher Rick,teacher.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+346,Terry,terry.terry@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+347,President Curtis,president.curtis@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),5
+348,The President of the Miniverse,the.miniverse@krom.id,Dead,Humanoid,Male,Zeep Xanflorp's Miniverse,Zeep Xanflorp's Miniverse,1
+349,The Scientist Formerly Known as Rick,the.rick@krom.id,Dead,Human,Male,unknown,unknown,1
+350,Thomas Lipkip,thomas.lipkip@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Froopyland,1
+351,Three Unknown Things,three.things@krom.id,Alive,Alien,unknown,unknown,Interdimensional Cable,1
+352,Tinkles,tinkles.tinkles@krom.id,Dead,Alien,Female,unknown,Earth (Replacement Dimension),1
+353,Tiny Rick,tiny.rick@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+354,Toby Matthews,toby.matthews@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+355,Todd Crystal,todd.crystal@krom.id,Alive,Alien,Male,Unity's Planet,Unity's Planet,1
+356,Tom Randolph,tom.randolph@krom.id,Alive,Human,Male,Earth (C-137),Earth (C-137),1
+357,Tommy's Clone,tommy's.clone@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+358,Tophat Jones,tophat.jones@krom.id,Dead,Mythological Creature,Male,unknown,Interdimensional Cable,3
+359,Tortured Morty,tortured.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+360,Toxic Morty,toxic.morty@krom.id,Dead,Humanoid,Male,Detoxifier,Earth (Replacement Dimension),1
+361,Toxic Rick,toxic.rick@krom.id,Dead,Humanoid,Male,Detoxifier,Earth (Replacement Dimension),1
+362,Traflorkian,traflorkian.traflorkian@krom.id,Alive,Alien,unknown,unknown,Worldender's lair,5
+363,Trandor,trandor.trandor@krom.id,Alive,Alien,Male,Krootabulon,Earth (Replacement Dimension),1
+364,Tree Person,tree.person@krom.id,Dead,Humanoid,unknown,Kyle's Teenyverse,Kyle's Teenyverse,1
+365,Tricia Lange,tricia.lange@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),5
+366,Trunk Morty,trunk.morty@krom.id,Alive,Humanoid,Male,Trunk World,Citadel of Ricks,1
+367,Trunk Man,trunk.man@krom.id,Alive,Humanoid,Male,Trunk World,Interdimensional Cable,2
+368,Truth Tortoise,truth.tortoise@krom.id,unknown,Mythological Creature,Male,unknown,unknown,1
+369,Tusked Assassin,tusked.assassin@krom.id,unknown,Alien,Male,Resort Planet,Resort Planet,1
+370,Two Guys with Handlebar Mustaches,two.mustaches@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+371,Tumblorkian,tumblorkian.tumblorkian@krom.id,Alive,Alien,Male,Plopstar,Plopstar,1
+372,Unity,unity.unity@krom.id,Alive,Alien,Genderless,unknown,Unity's Planet,1
+373,Unmuscular Michael,unmuscular.michael@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+374,Vampire Master,vampire.master@krom.id,Alive,Mythological Creature,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+375,Vance Maximus,vance.maximus@krom.id,Dead,Human,Male,unknown,Worldender's lair,1
+376,Veronica Ann Bennet,veronica.bennet@krom.id,Alive,Alien,Female,Gazorpazorp,Gazorpazorp,1
+377,Voltematron,voltematron.voltematron@krom.id,Dead,Alien,unknown,unknown,Earth (Replacement Dimension),1
+378,Wall Crawling Rick,wall.rick@krom.id,unknown,Humanoid,Male,unknown,Citadel of Ricks,1
+379,Wedding Bartender,wedding.bartender@krom.id,unknown,Alien,Male,unknown,Planet Squanch,1
+380,Unknown Rick,unknown.rick@krom.id,unknown,Human,Male,unknown,unknown,2
+381,Woman Rick,woman.rick@krom.id,Alive,Alien,Female,unknown,unknown,1
+382,Worldender,worldender.worldender@krom.id,Dead,Alien,Male,unknown,Worldender's lair,1
+383,Yaarb,yaarb.yaarb@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+384,Yellow Headed Doctor,yellow.doctor@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+385,Yellow Shirt Rick,yellow.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+386,Zarbadar Gloonch,zarbadar.gloonch@krom.id,Dead,Alien,Female,unknown,Nuptia 4,2
+387,Zarbadar's Mytholog,zarbadar's.mytholog@krom.id,unknown,Mythological Creature,Female,Nuptia 4,Nuptia 4,1
+388,Zeep Xanflorp,zeep.xanflorp@krom.id,Alive,Humanoid,Male,Rick's Battery Microverse,Rick's Battery Microverse,1
+389,Zeta Alpha Rick,zeta.rick@krom.id,Dead,Human,Male,unknown,Rick's Memories,4
+390,Zick Zack,zick.zack@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+391,Uncle Steve,uncle.steve@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+392,Bearded Morty,bearded.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,2
+393,Roy,roy.roy@krom.id,Alive,Human,Male,Roy: A Life Well Lived,Roy: A Life Well Lived,1
+394,Davin,davin.davin@krom.id,Dead,Cronenberg,Male,Earth (C-137),Earth (C-137),2
+395,Greebybobe,greebybobe.greebybobe@krom.id,Alive,Alien,unknown,Girvonesk,Worldender's lair,4
+396,Scary Teacher,scary.teacher@krom.id,Alive,Mythological Creature,Male,Mr. Goldenfold's dream,Mr. Goldenfold's dream,1
+397,Fido,fido.fido@krom.id,Alive,Animal,Male,Snuffles' Dream,Snuffles' Dream,1
+398,Accountant dog,accountant.dog@krom.id,Alive,Animal,Male,Snuffles' Dream,Snuffles' Dream,1
+399,Tiny-persons advocacy group lawyer,tiny-persons.lawyer@krom.id,Alive,Mythological Creature,Male,Giant's Town,Giant's Town,1
+400,Giant Judge,giant.judge@krom.id,Alive,Mythological Creature,Male,Giant's Town,Giant's Town,1
+401,Morty Jr's interviewer,morty.interviewer@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+402,Guy from The Bachelor,guy.bachelor@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+403,Corn detective,corn.detective@krom.id,Dead,Humanoid,Male,Interdimensional Cable,Interdimensional Cable,1
+404,Michael Jackson,michael.jackson@krom.id,Alive,Humanoid,Male,Earth (Phone Dimension),Earth (Phone Dimension),1
+405,Trunkphobic suspenders guy,trunkphobic.guy@krom.id,Alive,Human,Male,unknown,Earth (Replacement Dimension),4
+406,Spiderweb teddy bear,spiderweb.bear@krom.id,Alive,Animal,unknown,Interdimensional Cable,Interdimensional Cable,1
+407,Regular Tyrion Lannister,regular.lannister@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+408,Quick Mystery Presenter,quick.presenter@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+409,Mr. Sneezy,mr..sneezy@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+410,Two Brothers,two.brothers@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+411,Alien Mexican Armada,alien.armada@krom.id,unknown,Alien,Male,Interdimensional Cable,Interdimensional Cable,1
+412,Giant Cat Monster,giant.monster@krom.id,unknown,Animal,unknown,Interdimensional Cable,Interdimensional Cable,1
+413,Old Women,old.women@krom.id,unknown,Human,Female,Interdimensional Cable,Interdimensional Cable,1
+414,Trunkphobic guy,trunkphobic.guy@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+415,Pro trunk people marriage guy,pro.guy@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+416,Muscular Mannie,muscular.mannie@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+417,Baby Legs Chief,baby.chief@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+418,Mrs. Sullivan's Boyfriend,mrs..boyfriend@krom.id,Alive,Human,Male,Interdimensional Cable,Interdimensional Cable,1
+419,Plutonian Hostess,plutonian.hostess@krom.id,Alive,Alien,Female,Pluto,Pluto,1
+420,Plutonian Host,plutonian.host@krom.id,Alive,Alien,Male,Pluto,Pluto,1
+421,Rich Plutonian,rich.plutonian@krom.id,Alive,Alien,Female,Pluto,Pluto,1
+422,Rich Plutonian,rich.plutonian@krom.id,Alive,Alien,Male,Pluto,Pluto,1
+423,Synthetic Laser Eels,synthetic.eels@krom.id,Alive,Animal,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+424,Pizza-person,pizza-person.pizza-person@krom.id,Alive,Humanoid,Male,Earth (Pizza Dimension),Earth (Pizza Dimension),1
+425,Pizza-person,pizza-person.pizza-person@krom.id,Alive,Humanoid,Male,Earth (Pizza Dimension),Earth (Pizza Dimension),1
+426,Greasy Grandma,greasy.grandma@krom.id,Alive,Human,Female,Greasy Grandma World,Greasy Grandma World,1
+427,Phone-person,phone-person.phone-person@krom.id,Alive,Humanoid,Male,Earth (Phone Dimension),Earth (Phone Dimension),1
+428,Phone-person,phone-person.phone-person@krom.id,Alive,Humanoid,Male,Earth (Phone Dimension),Earth (Phone Dimension),1
+429,Chair-person,chair-person.chair-person@krom.id,Alive,Humanoid,Male,Earth (Chair Dimension),Earth (Chair Dimension),1
+430,Chair-person,chair-person.chair-person@krom.id,Alive,Humanoid,Male,Earth (Chair Dimension),Earth (Chair Dimension),1
+431,Chair-homeless,chair-homeless.chair-homeless@krom.id,Alive,Humanoid,Male,Earth (Chair Dimension),Earth (Chair Dimension),1
+432,Chair-waiter,chair-waiter.chair-waiter@krom.id,Alive,Humanoid,Male,Earth (Chair Dimension),Earth (Chair Dimension),1
+433,Doopidoo,doopidoo.doopidoo@krom.id,Alive,Animal,unknown,unknown,unknown,1
+434,Super Weird Rick,super.rick@krom.id,unknown,Human,Male,unknown,unknown,1
+435,Pripudlian,pripudlian.pripudlian@krom.id,Alive,Alien,unknown,unknown,Earth (Replacement Dimension),4
+436,Giant Testicle Monster,giant.monster@krom.id,Alive,Alien,unknown,Testicle Monster Dimension,Testicle Monster Dimension,2
+437,Michael,michael.michael@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+438,Michael's Lawyer,michael's.lawyer@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+439,Veterinary,veterinary.veterinary@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+440,Veterinary Nurse,veterinary.nurse@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+441,Bearded Jerry,bearded.jerry@krom.id,Alive,Human,Male,unknown,Jerryboree,1
+442,Shaved Head Jerry,shaved.jerry@krom.id,Alive,Human,Male,unknown,Jerryboree,1
+443,Tank Top Jerry,tank.jerry@krom.id,Alive,Human,Male,unknown,Jerryboree,1
+444,Pink Polo Shirt Jerry,pink.jerry@krom.id,Alive,Human,Male,unknown,Jerryboree,1
+445,Jerryboree Keeper,jerryboree.keeper@krom.id,Alive,Alien,Female,unknown,Jerryboree,1
+446,Jerryboree Receptionist,jerryboree.receptionist@krom.id,Alive,Alien,Male,unknown,Jerryboree,1
+447,Anchor Gear,anchor.gear@krom.id,Alive,Alien,Male,Gear World,Gear World,1
+448,Gear Cop,gear.cop@krom.id,Dead,Alien,Male,Gear World,Gear World,1
+449,Roy's Mum,roy's.mum@krom.id,Alive,Human,Female,Roy: A Life Well Lived,Roy: A Life Well Lived,1
+450,Roy's Wife,roy's.wife@krom.id,Alive,Human,Male,Roy: A Life Well Lived,Roy: A Life Well Lived,1
+451,Roy's Son,roy's.son@krom.id,Alive,Human,Male,Roy: A Life Well Lived,Roy: A Life Well Lived,1
+452,Simon,simon.simon@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+453,Vampire Master's Assistant,vampire.assistant@krom.id,Alive,Mythological Creature,Male,unknown,Earth (Replacement Dimension),1
+454,Arbolian Mentirososian,arbolian.mentirososian@krom.id,Alive,Alien,unknown,Árboles Mentirosos,St. Gloopy Noops Hospital,3
+455,St. Gloopy Noops Nurse,st..nurse@krom.id,Alive,Alien,Female,unknown,St. Gloopy Noops Hospital,1
+456,Nano Doctor,nano.doctor@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+457,Funny Songs Presenter,funny.presenter@krom.id,Alive,Human,Male,unknown,Interdimensional Cable,1
+458,Tax Attorney,tax.attorney@krom.id,unknown,Human,Male,unknown,Interdimensional Cable,1
+459,Butthole Ice Cream Guy,butthole.guy@krom.id,Alive,Alien,Male,unknown,Interdimensional Cable,1
+460,Traflorkian Journalist,traflorkian.journalist@krom.id,Alive,Alien,Male,unknown,St. Gloopy Noops Hospital,1
+461,Communication's Responsible Rick,communication's.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+462,Teleportation's Responsible Rick,teleportation's.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+463,SEAL Team Rick,seal.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+464,SEAL Team Rick,seal.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+465,SEAL Team Rick,seal.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+466,SEAL Team Rick,seal.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+467,Morphizer-XE Customer Support,morphizer-xe.support@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+468,Morphizer-XE Customer Support,morphizer-xe.support@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+469,Morphizer-XE Customer Support,morphizer-xe.support@krom.id,unknown,Alien,Male,unknown,Earth (Replacement Dimension),1
+470,Alien Spa Employee,alien.employee@krom.id,Alive,Alien,Male,unknown,Alien Day Spa,1
+471,Little Voltron,little.voltron@krom.id,Alive,Robot,Genderless,unknown,Earth (Replacement Dimension),1
+472,Baby Rick,baby.rick@krom.id,Alive,Human,Male,Citadel of Ricks,Citadel of Ricks,1
+473,Bartender Morty,bartender.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+474,Dancer Cowboy Morty,dancer.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+475,Dancer Morty,dancer.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+476,Flower Morty,flower.morty@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+477,Hairdresser Rick,hairdresser.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+478,Journalist Rick,journalist.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+479,Private Sector Rick,private.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+480,Purple Morty,purple.morty@krom.id,Alive,Alien,Male,unknown,Citadel of Ricks,1
+481,Retired General Rick,retired.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+482,Secret Service Rick,secret.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+483,Steve Jobs Rick,steve.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+484,Sheik Rick,sheik.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+485,Modern Rick,modern.rick@krom.id,Alive,Human,Male,unknown,Citadel of Ricks,1
+486,Tan Rick,tan.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+487,Visor Rick,visor.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+488,Colonial Rick,colonial.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+489,P-Coat Rick,p-coat.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+490,Chang,chang.chang@krom.id,Alive,Human,Male,unknown,The Menagerie,1
+491,Dr. Eleanor Arroway,dr..arroway@krom.id,Alive,Human,Female,unknown,The Menagerie,1
+492,Varrix,varrix.varrix@krom.id,Alive,Alien,unknown,unknown,Earth (Replacement Dimension),1
+493,Secretary of the Interior,secretary.interior@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+494,Crystal Poacher,crystal.poacher@krom.id,Dead,Alien,Male,unknown,Forbodulon Prime,1
+495,Crystal Poacher,crystal.poacher@krom.id,Dead,Alien,Male,unknown,Forbodulon Prime,1
+496,Crystal Poacher,crystal.poacher@krom.id,Dead,Alien,Male,unknown,Forbodulon Prime,1
+497,Hologram Rick,hologram.rick@krom.id,Dead,Humanoid,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+498,Fascist Rick,fascist.rick@krom.id,Dead,Human,Male,Earth (Fascist Dimension),Earth (Fascist Dimension),1
+499,Fascist Morty,fascist.morty@krom.id,Dead,Human,Male,Earth (Fascist Dimension),Earth (Fascist Dimension),1
+500,Fascist Mr. President,fascist.president@krom.id,Alive,Human,Male,Earth (Fascist Dimension),Earth (Fascist Dimension),1
+501,Fascist Rick’s Clone,fascist.clone@krom.id,Dead,Human,Male,Earth (Fascist Dimension),Earth (Fascist Dimension),1
+502,Revolio Clockberg Jr.,revolio.jr.@krom.id,Dead,Alien,Male,Earth (Fascist Dimension),Earth (Fascist Dimension),1
+503,Fascist Shrimp Rick,fascist.rick@krom.id,Alive,Animal,Male,Earth (Fascist Shrimp Dimension),Earth (Fascist Shrimp Dimension),1
+504,Fascist Shrimp Rick’s Clone,fascist.clone@krom.id,Dead,Animal,Male,Earth (Fascist Shrimp Dimension),Earth (Fascist Shrimp Dimension),1
+505,Fascist Shrimp Morty,fascist.morty@krom.id,Alive,Animal,Male,Earth (Fascist Shrimp Dimension),Earth (Fascist Shrimp Dimension),1
+506,Fascist Shrimp SS,fascist.ss@krom.id,Alive,Animal,Male,Earth (Fascist Shrimp Dimension),Earth (Fascist Shrimp Dimension),1
+507,Fascist Teddy Bear Rick,fascist.rick@krom.id,Alive,Animal,Male,Earth (Fascist Teddy Bear Dimension),Earth (Fascist Teddy Bear Dimension),1
+508,Fascist Teddy Bear Rick’s Clone,fascist.clone@krom.id,Dead,Animal,Male,Earth (Fascist Teddy Bear Dimension),Earth (Fascist Teddy Bear Dimension),1
+509,Bully,bully.bully@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+510,Anchorman,anchorman.anchorman@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+511,Anchorwoman,anchorwoman.anchorwoman@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+512,Morty’s Lawyer,morty’s.lawyer@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+513,Judge,judge.judge@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+514,Public Opinion Judge,public.judge@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+515,Caterpillar Mr. Goldenfold,caterpillar.goldenfold@krom.id,Dead,Animal,Male,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+516,Wasp Rick,wasp.rick@krom.id,Alive,Animal,Male,Earth (Wasp Dimension),Earth (Replacement Dimension),1
+517,Wasp Rick’s Clone,wasp.clone@krom.id,unknown,Animal,Male,Earth (Wasp Dimension),Earth (Replacement Dimension),1
+518,Wasp Morty,wasp.morty@krom.id,Alive,Animal,Male,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+519,Wasp Summer,wasp.summer@krom.id,Alive,Animal,Female,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+520,Wasp Jerry,wasp.jerry@krom.id,Alive,Animal,Male,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+521,Wasp Beth,wasp.beth@krom.id,Alive,Animal,Female,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+522,Caterpillar Mr. Goldenfold’s Larvae,caterpillar.larvae@krom.id,Dead,Animal,unknown,Earth (Wasp Dimension),Earth (Wasp Dimension),1
+523,Boglin,boglin.boglin@krom.id,unknown,unknown,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+524,Kirkland Brand Mr. Meeseeks,kirkland.meeseeks@krom.id,unknown,Humanoid,Male,Mr. Meeseeks Box,Earth (Replacement Dimension),1
+525,Glootie,glootie.glootie@krom.id,Alive,Alien,Male,unknown,Monogatron Mothership,1
+526,Danny Publitz,danny.publitz@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+527,Mothership Intern,mothership.intern@krom.id,Alive,Alien,Male,unknown,Monogatron Mothership,1
+528,Monogatron Leader,monogatron.leader@krom.id,Alive,Alien,Male,unknown,Monogatron Mothership,1
+529,Lizard,lizard.lizard@krom.id,Dead,Alien,Male,Midland Quasar,Midland Quasar,1
+530,Deliverance,deliverance.deliverance@krom.id,Dead,Robot,Genderless,Midland Quasar,Midland Quasar,1
+531,Tony,tony.tony@krom.id,Dead,Alien,Male,unknown,Mount Space Everest,1
+532,Tony’s Wife,tony’s.wife@krom.id,Dead,Alien,Female,Globaflyn,Globaflyn,1
+533,Monogatron Queen,monogatron.queen@krom.id,Alive,Alien,Female,unknown,Monogatron Mothership,1
+534,Tony's Dad,tony's.dad@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+535,Jeff,jeff.jeff@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+536,Josiah,josiah.josiah@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+537,Maggie,maggie.maggie@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+538,Priest Witherspoon,priest.witherspoon@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+539,Richard,richard.richard@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+540,Running Bird,running.bird@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+541,Secretary at Tony's,secretary.tony's@krom.id,Alive,Alien,Female,unknown,Earth (Replacement Dimension),1
+542,Mountain Sweat Jerry,mountain.jerry@krom.id,Alive,Human,Male,Globaflyn,Globaflyn,1
+543,Vermigurber,vermigurber.vermigurber@krom.id,Alive,Alien,Male,unknown,Gorgon Quadrant,1
+544,Miles Knightly,miles.knightly@krom.id,Dead,Alien,Male,unknown,Heist-Con,1
+545,Heist-Con Receptionist,heist-con.receptionist@krom.id,Alive,Alien,Female,unknown,Heist-Con,1
+546,Angie Flint,angie.flint@krom.id,Alive,Human,Female,unknown,Heist-Con,1
+547,Glar,glar.glar@krom.id,Alive,Alien,Male,unknown,Heist-Con,1
+548,Truckula,truckula.truckula@krom.id,Alive,Mythological Creature,Male,unknown,Heist-Con,1
+549,Snake Arms,snake.arms@krom.id,Alive,Alien,Male,unknown,Heist-Con,1
+550,Double Microwawe,double.microwawe@krom.id,Alive,Humanoid,Male,unknown,Heist-Con,1
+551,Monitor Lord,monitor.lord@krom.id,Alive,Alien,Male,unknown,Heist-Con,1
+552,Key Catcher,key.catcher@krom.id,Alive,Alien,Female,unknown,Heist-Con,1
+553,The Shapeshiftress,the.shapeshiftress@krom.id,Alive,Alien,Female,unknown,Heist-Con,1
+554,Heistotron,heistotron.heistotron@krom.id,Dead,Robot,Genderless,Earth (Replacement Dimension),Heistotron Base,1
+555,Randotron,randotron.randotron@krom.id,Dead,Robot,Genderless,Earth (Replacement Dimension),Heistotron Base,1
+556,Hephaestus,hephaestus.hephaestus@krom.id,Alive,Mythological Creature,Male,Mount Olympus,Heistotron Base,1
+557,Ventriloquiver,ventriloquiver.ventriloquiver@krom.id,Alive,Humanoid,Female,Plitzville Montana,Heistotron Base,1
+558,Elon Tusk,elon.tusk@krom.id,Alive,Human,Male,Earth (Tusk Dimension),Heistotron Base,1
+559,Gramuflackian Anchorman,gramuflackian.anchorman@krom.id,Dead,Alien,Male,Gramuflack,Gramuflack,1
+560,Gramuflackian General,gramuflackian.general@krom.id,Dead,Alien,Male,Gramuflack,Gramuflack,1
+561,Netflix Executive,netflix.executive@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+562,Balthromaw,balthromaw.balthromaw@krom.id,Alive,Mythological Creature,Male,Draygon,Earth (Replacement Dimension),1
+563,The Wizard,the.wizard@krom.id,Dead,Human,Male,Draygon,Draygon,1
+564,Talking Cat,talking.cat@krom.id,Alive,Animal,Male,unknown,Earth (Replacement Dimension),1
+565,Debrah,debrah.debrah@krom.id,Alive,Mythological Creature,Male,Draygon,Draygon,1
+566,Debrah’s Partner,debrah’s.partner@krom.id,Alive,Mythological Creature,Male,Draygon,Draygon,1
+567,Michael,michael.michael@krom.id,Alive,Mythological Creature,Male,Draygon,Draygon,1
+568,Slut Dragon,slut.dragon@krom.id,Alive,Mythological Creature,Male,Draygon,Draygon,1
+569,Shadow Jacker,shadow.jacker@krom.id,Alive,Mythological Creature,Male,Draygon,Draygon,1
+570,Chachi,chachi.chachi@krom.id,Dead,Alien,Male,unknown,Earth (Replacement Dimension),1
+571,Slippy,slippy.slippy@krom.id,Alive,Animal,Female,Earth (Replacement Dimension),Snake Planet,1
+572,Robot Snake,robot.snake@krom.id,unknown,Robot,Genderless,Snake Planet,Snake Planet,1
+573,Snake Hitler,snake.hitler@krom.id,Dead,Animal,Male,Snake Planet,Snake Planet,1
+574,Snake Lincoln,snake.lincoln@krom.id,Dead,Animal,Male,Snake Planet,Snake Planet,1
+575,Snake Resistance Robot,snake.robot@krom.id,Dead,Robot,Genderless,Snake Planet,Earth (Replacement Dimension),1
+576,Snake Linguist,snake.linguist@krom.id,unknown,Animal,Male,Snake Planet,Snake Planet,1
+577,Snake Terminator,snake.terminator@krom.id,unknown,Robot,Male,Snake Planet,Snake Planet,1
+578,Snake Soldier,snake.soldier@krom.id,Alive,Animal,Male,Snake Planet,Snake Planet,1
+579,Snake with Legs,snake.legs@krom.id,Alive,Animal,Male,Snake Planet,Snake Planet,1
+580,Secret Service Snake,secret.snake@krom.id,Alive,Animal,Male,Snake Planet,Snake Planet,1
+581,Anchosnake,anchosnake.anchosnake@krom.id,Alive,Animal,Male,Snake Planet,Snake Planet,1
+582,Anchosnake,anchosnake.anchosnake@krom.id,Alive,Animal,Female,Snake Planet,Snake Planet,1
+583,80's snake,80's.snake@krom.id,unknown,Animal,Male,Snake Planet,Snake Planet,1
+584,Bar Customer,bar.customer@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+585,Bartender,bartender.bartender@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+586,PC Basketball Player,pc.player@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+587,Cavesnake,cavesnake.cavesnake@krom.id,Dead,Animal,Male,Snake Planet,Snake Planet,1
+588,Pet Shop Employee,pet.employee@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+589,Snake Reporter,snake.reporter@krom.id,Alive,Animal,Male,Snake Planet,Snake Planet,1
+590,High Pilot,high.pilot@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+591,High Pilot,high.pilot@krom.id,unknown,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+592,Phoenixperson,phoenixperson.phoenixperson@krom.id,Dead,Alien,Male,Bird World,Earth (Replacement Dimension),3
+593,Tickets Please Guy,tickets.guy@krom.id,Dead,Human,Male,Story Train,Non-Diegetic Alternative Reality,1
+594,Floaty Bloody Man,floaty.man@krom.id,Dead,Human,Male,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+595,Floaty Non-Gasm Brotherhood Member,floaty.member@krom.id,Dead,Alien,Male,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+596,Floaty Non-Gasm Brotherhood Member Friend,floaty.friend@krom.id,Dead,Alien,Female,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+597,Abradolf Lincler,abradolf.lincler@krom.id,Alive,Human,Male,Story Train,Story Train,1
+598,Biblesaurus,biblesaurus.biblesaurus@krom.id,Alive,Animal,Male,Story Train,Story Train,1
+599,Birdperson,birdperson.birdperson@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+600,Cats Fan,cats.fan@krom.id,Alive,Alien,Female,Story Train,Story Train,1
+601,Christmas Storyteller,christmas.storyteller@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+602,Cookies Guy,cookies.guy@krom.id,Alive,Human,Male,Morty’s Story,Morty’s Story,1
+603,Crossy,crossy.crossy@krom.id,Alive,unknown,Genderless,Ricks’s Story,Ricks’s Story,1
+604,Female Scorpion,female.scorpion@krom.id,Dead,Animal,Female,Morty’s Story,Morty’s Story,1
+605,Floaty Bloody Man’s Daughter,floaty.daughter@krom.id,Dead,Human,Female,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+606,Goomby,goomby.goomby@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+607,Hairspray Fan,hairspray.fan@krom.id,Alive,Alien,Female,Story Train,Story Train,1
+608,Jesus Christ,jesus.christ@krom.id,Alive,Human,Male,Ricks’s Story,Ricks’s Story,1
+609,Josh,josh.josh@krom.id,Dead,Human,Male,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+610,Josh's Sister,josh's.sister@krom.id,Dead,Human,Female,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+611,Leah,leah.leah@krom.id,Alive,unknown,Female,Story Train,Story Train,1
+612,Marcus,marcus.marcus@krom.id,Alive,Human,Male,Story Train,Story Train,1
+613,Mike Johnson,mike.johnson@krom.id,Alive,Human,Male,Morty’s Story,Morty’s Story,1
+614,Mr. Celery & Friends,mr..friends@krom.id,Alive,unknown,Genderless,Ricks’s Story,Ricks’s Story,1
+615,Musical Fan,musical.fan@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+616,Phantom of the Opera Fan,phantom.fan@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+617,Phoenixperson,phoenixperson.phoenixperson@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+618,Private Smith,private.smith@krom.id,unknown,Human,Male,Story Train,Story Train,1
+619,Professor Sanchez,professor.sanchez@krom.id,Dead,Human,Male,Story Train,Story Train,1
+620,Ramamama Lord,ramamama.lord@krom.id,Alive,Human,Male,Story Train,Story Train,1
+621,Ruth Bader Ginsburg,ruth.ginsburg@krom.id,Alive,Human,Female,Morty’s Story,Morty’s Story,1
+622,Sarge,sarge.sarge@krom.id,Alive,Human,Male,Story Train,Story Train,1
+623,Shrek The Musical Fan,shrek.fan@krom.id,Alive,Alien,Male,Story Train,Story Train,1
+624,Snuffles,snuffles.snuffles@krom.id,Alive,Animal,Male,Story Train,Story Train,1
+625,Storylord,storylord.storylord@krom.id,Alive,Human,Male,Story Train,Ricks’s Story,1
+626,Tammy Guetermann,tammy.guetermann@krom.id,Alive,Human,Female,Story Train,Story Train,1
+627,The Concept of Time,the.time@krom.id,Alive,unknown,Genderless,Story Train,Story Train,1
+628,Beth Smith,beth.smith@krom.id,Alive,Human,Female,Morty’s Story,Morty’s Story,1
+629,Summer Smith,summer.smith@krom.id,Alive,Human,Female,Morty’s Story,Morty’s Story,1
+630,Morty Smith,morty.smith@krom.id,Alive,Human,Male,Story Train,Story Train,1
+631,Rick Sanchez,rick.sanchez@krom.id,Alive,Human,Male,Story Train,Story Train,1
+632,Train Cop,train.cop@krom.id,Dead,Human,Male,Story Train,Story Train,1
+633,Train Cops,train.cops@krom.id,Alive,Human,Female,Story Train,Story Train,1
+634,Train Cops Instructor,train.instructor@krom.id,Dead,Human,Male,Story Train,Story Train,1
+635,Darth Poopybutthole,darth.poopybutthole@krom.id,Alive,Poopybutthole,Male,Ricks’s Story,Ricks’s Story,1
+636,Evil Morty,evil.morty@krom.id,Alive,Human,Male,Ricks’s Story,Ricks’s Story,1
+637,Morty’s Disguise,morty’s.disguise@krom.id,Alive,Human,Female,Story Train,Story Train,1
+638,Rick’s Disguise,rick’s.disguise@krom.id,Alive,Human,Male,Story Train,Story Train,1
+639,Uncle Nibbles,uncle.nibbles@krom.id,Dead,Alien,Male,Tickets Please Guy Nightmare,Tickets Please Guy Nightmare,1
+640,Angry Glorzo,angry.glorzo@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+641,Bruce,bruce.bruce@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+642,Council of Glorzos Member,council.member@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+643,Council of Glorzos Member,council.member@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+644,Old Glorzo,old.glorzo@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+645,Shane,shane.shane@krom.id,unknown,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+646,Steve,steve.steve@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+647,Troy,troy.troy@krom.id,Dead,Alien,Male,Glorzo Asteroid,Glorzo Asteroid,1
+648,Crystal Dealers Boss,crystal.boss@krom.id,Dead,Alien,Male,unknown,Alien Acid Plant,1
+649,Crystal Dealer,crystal.dealer@krom.id,Dead,Alien,Male,unknown,Alien Acid Plant,1
+650,Crystal Dealer,crystal.dealer@krom.id,Dead,Alien,Male,unknown,Alien Acid Plant,1
+651,Crystal Dealer,crystal.dealer@krom.id,Dead,Alien,Male,unknown,Alien Acid Plant,1
+652,SWAT Officer,swat.officer@krom.id,Dead,Human,Male,Merged Universe,Merged Universe,1
+653,Plane Crash Survivor,plane.survivor@krom.id,unknown,Human,Female,Near-Duplicate Reality,Near-Duplicate Reality,1
+654,Plane Crash Survivor,plane.survivor@krom.id,unknown,Human,Male,Near-Duplicate Reality,Near-Duplicate Reality,1
+655,Heroine Keith,heroine.keith@krom.id,Alive,Human,Male,Near-Duplicate Reality,Merged Universe,1
+656,Impervious to Acid SWAT Officer,impervious.officer@krom.id,Dead,Human,Male,Merged Universe,Merged Universe,1
+657,Johnny Carson,johnny.carson@krom.id,Alive,Human,Male,Merged Universe,Merged Universe,1
+658,Sonia Sotomayor,sonia.sotomayor@krom.id,Alive,Human,Female,Merged Universe,Merged Universe,1
+659,Morty’s Father-in-law,morty’s.father-in-law@krom.id,Alive,Human,Male,Near-Duplicate Reality,Near-Duplicate Reality,1
+660,Morty’s Mother-in-law,morty’s.mother-in-law@krom.id,Alive,Human,Female,Near-Duplicate Reality,Near-Duplicate Reality,1
+661,Morty’s Girlfriend,morty’s.girlfriend@krom.id,Alive,Human,Female,Near-Duplicate Reality,Merged Universe,1
+662,Gaia,gaia.gaia@krom.id,Alive,unknown,Female,Gaia,Gaia,1
+663,Reggie,reggie.reggie@krom.id,Dead,Mythological Creature,Male,Mount Olympus,Gaia,1
+664,Ticktock,ticktock.ticktock@krom.id,unknown,Humanoid,Genderless,Gaia,Gaia,1
+665,Florflock,florflock.florflock@krom.id,Alive,Humanoid,Genderless,Gaia,Gaia,1
+666,Squeeb,squeeb.squeeb@krom.id,Alive,Humanoid,Genderless,Gaia,Gaia,1
+667,Defiance Beth,defiance.beth@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+668,Defiance Squanchette,defiance.squanchette@krom.id,Alive,Alien,Female,Planet Squanch,Defiance's Ship,1
+669,Defiance Doctor,defiance.doctor@krom.id,Alive,Alien,Male,unknown,Defiance's Base,1
+670,New Improved Galactic Federation Guard,new.guard@krom.id,Dead,Alien,Male,Gromflom Prime,NX-5 Planet Remover,1
+671,New Improved Galactic Federation Guard,new.guard@krom.id,Dead,Alien,Male,Gromflom Prime,NX-5 Planet Remover,1
+672,Mr. Nimbus,mr..nimbus@krom.id,Alive,Mythological Creature,Male,The Ocean,Earth (Replacement Dimension),1
+673,Hoovy,hoovy.hoovy@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+674,Bova,bova.bova@krom.id,Dead,Humanoid,Female,Narnia Dimension,Narnia Dimension,1
+675,Japheth,japheth.japheth@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+676,Japheth's Middle Son,japheth's.son@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+677,Japheth's Eldest Son,japheth's.son@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+678,Japheth's Youngest Son,japheth's.son@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+679,Japheth's Grandson,japheth's.grandson@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+680,Adam,adam.adam@krom.id,Dead,Humanoid,Male,Narnia Dimension,Earth (Replacement Dimension),1
+681,Adam's Mother,adam's.mother@krom.id,Dead,Humanoid,Female,Narnia Dimension,Narnia Dimension,1
+682,Warlock,warlock.warlock@krom.id,Dead,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+683,Evolved Narnian,evolved.narnian@krom.id,Alive,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+684,Mr. Nimbus Secretary,mr..secretary@krom.id,Alive,Animal,Female,The Ocean,Earth (Replacement Dimension),1
+685,Evolved Narnian Disguised as Morty,evolved.morty@krom.id,Alive,Humanoid,Male,Narnia Dimension,Narnia Dimension,1
+686,Mr. Nimbus' Squid,mr..squid@krom.id,Dead,Animal,Male,The Ocean,Earth (Replacement Dimension),1
+687,Scarecrow Rick,scarecrow.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+688,Scarecrow Summer,scarecrow.summer@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+689,Scarecrow Jerry,scarecrow.jerry@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+690,Scarecrow Morty,scarecrow.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+691,Scarecrow Beth,scarecrow.beth@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+692,Glockenspiel Jerry,glockenspiel.jerry@krom.id,Alive,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+693,Glockenspiel Beth,glockenspiel.beth@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+694,Glockenspiel Rick,glockenspiel.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+695,Glockenspiel Summer,glockenspiel.summer@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+696,Glockenspiel Morty,glockenspiel.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+697,Wicker Beth,wicker.beth@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+698,Wicker Rick,wicker.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+699,Wicker Morty,wicker.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+700,Wicker Summer,wicker.summer@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+701,Metal Rick,metal.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+702,Gun Brain Rick,gun.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+703,Mr. Always Wants to be Hunted,mr..hunted@krom.id,Alive,Poopybutthole,Male,unknown,Earth (Replacement Dimension),1
+704,Squid Costume Beth,squid.beth@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+705,Squid Costume Jerry,squid.jerry@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+706,Squid Costume Morty,squid.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+707,Squid Costume Rick,squid.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+708,Squid Costume Summer,squid.summer@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+709,Dracula,dracula.dracula@krom.id,Alive,Mythological Creature,Male,Interdimensional Cable,Interdimensional Cable,1
+710,Steve,steve.steve@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+711,When Wolf,when.wolf@krom.id,Alive,Mythological Creature,Male,Interdimensional Cable,Interdimensional Cable,1
+712,Too Cute to Murder Beth,too.beth@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+713,Too Cute to Murder Rick,too.rick@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+714,Too Cute to Murder Jerry,too.jerry@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+715,Too Cute to Murder Morty,too.morty@krom.id,Dead,Robot,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+716,Too Cute to Murder Summer,too.summer@krom.id,Dead,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+717,Planetina,planetina.planetina@krom.id,Alive,Humanoid,Female,Elemental Rings,Earth (Replacement Dimension),1
+718,Daphne,daphne.daphne@krom.id,Alive,Alien,Female,Morglutz,Ferkus 9,1
+719,Diesel Weasel,diesel.weasel@krom.id,Alive,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+720,Eddie,eddie.eddie@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+721,Xing Ho,xing.ho@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+722,Air Tina-Teer,air.tina-teer@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+723,Water Tina-Teer,water.tina-teer@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+724,Planetina Buyer,planetina.buyer@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+725,Tony Galopagus,tony.galopagus@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+726,Sticky,sticky.sticky@krom.id,Alive,unknown,Male,Morty,Earth (Replacement Dimension),1
+727,Professor Shabooboo,professor.shabooboo@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+728,Sperm Queen,sperm.queen@krom.id,Dead,unknown,Female,Morty,Earth (Replacement Dimension),1
+729,CHUD King,chud.king@krom.id,Alive,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+730,Princess Ponietta,princess.ponietta@krom.id,Alive,Animal,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+731,Naruto Smith,naruto.smith@krom.id,Alive,Humanoid,Male,Earth (Replacement Dimension),Space,2
+732,Blazen,blazen.blazen@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+733,Kathy Ireland,kathy.ireland@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+734,Amazing Johnathan,amazing.johnathan@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+735,Foal Sanchez,foal.sanchez@krom.id,Alive,Humanoid,unknown,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+736,Spaceman,spaceman.spaceman@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Space,1
+737,Cirque du Soleil Zumanity Member,cirque.member@krom.id,Alive,Human,Female,Near-Duplicate Reality,Earth (Replacement Dimension),1
+738,Cirque du Soleil Zumanity Member,cirque.member@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+739,Cirque du Soleil Zumanity Member,cirque.member@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+740,Cirque du Soleil Zumanity Member,cirque.member@krom.id,Dead,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+741,Cirque du Soleil Zumanity Member,cirque.member@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+742,Bruce Chutback,bruce.chutback@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+743,Alyson Hannigan,alyson.hannigan@krom.id,Dead,Alien,Female,unknown,Z. Q. P. D.,1
+744,Cenobite,cenobite.cenobite@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+745,Cenobite,cenobite.cenobite@krom.id,unknown,Mythological Creature,Female,Hell,Hell,1
+746,Cenobite,cenobite.cenobite@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+747,Cenobite,cenobite.cenobite@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+748,Cenobite,cenobite.cenobite@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+749,Coat Rack Head,coat.head@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+750,Mousetrap Nipples,mousetrap.nipples@krom.id,unknown,Mythological Creature,Male,Hell,Hell,1
+751,Changeformer,changeformer.changeformer@krom.id,Dead,Robot,Male,Space Tahoe,Space Tahoe,1
+752,Changeformer,changeformer.changeformer@krom.id,Dead,Robot,Male,Space Tahoe,Space Tahoe,1
+753,Space Cruiser,space.cruiser@krom.id,Alive,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+754,Coop,coop.coop@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+755,Dwayne,dwayne.dwayne@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+756,Franklin D. Roosevelt,franklin.roosevelt@krom.id,Dead,Humanoid,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+757,President's General,president's.general@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),2
+758,Giant Assassin Hidden in the Statue of Liberty,giant.liberty@krom.id,Alive,Robot,Female,France,Earth (Replacement Dimension),1
+759,Turkey Morty,turkey.morty@krom.id,Alive,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+760,Turkey Rick,turkey.rick@krom.id,Alive,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+761,Turkey President Curtis,turkey.curtis@krom.id,Alive,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+762,Martínez,martínez.martínez@krom.id,Dead,Animal,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+763,Marvin,marvin.marvin@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+764,Jackey,jackey.jackey@krom.id,Alive,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+765,Native Alien,native.alien@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+766,Pilgrim Alien,pilgrim.alien@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+767,President Turkey,president.turkey@krom.id,Dead,Humanoid,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+768,Mary-Lou,mary-lou.mary-lou@krom.id,Alive,Human,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+769,Big Fat rick,big.rick@krom.id,unknown,Human,Male,unknown,Earth (Replacement Dimension),1
+770,Hothead Rick,hothead.rick@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+771,Ricardo Montoya,ricardo.montoya@krom.id,unknown,Human,Male,unknown,Earth (Replacement Dimension),1
+772,Wrap-it-up Little Rick,wrap-it-up.rick@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+773,Yo-yo Rick,yo-yo.rick@krom.id,unknown,Human,Male,unknown,Earth (Replacement Dimension),1
+774,Voiceoverian,voiceoverian.voiceoverian@krom.id,Dead,Alien,unknown,unknown,Earth (Replacement Dimension),1
+775,Voiceoverian,voiceoverian.voiceoverian@krom.id,Dead,Alien,unknown,unknown,Earth (Replacement Dimension),1
+776,Gotron Pilot,gotron.pilot@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+777,Gotron Pilot,gotron.pilot@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+778,Gotron Pilot,gotron.pilot@krom.id,Dead,Human,Male,unknown,Earth (Replacement Dimension),1
+779,Young Memory Rick,young.rick@krom.id,Alive,Human,Male,Birdperson's Consciousness,Rick's Memories,1
+780,Memory Tammy,memory.tammy@krom.id,Dead,Human,Female,Birdperson's Consciousness,Birdperson's Consciousness,1
+781,Rick's Garage,rick's.garage@krom.id,Alive,Robot,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+782,Memory Squanchy,memory.squanchy@krom.id,Dead,Alien,Male,Birdperson's Consciousness,Birdperson's Consciousness,1
+783,Memory Rick,memory.rick@krom.id,Dead,Human,Male,Birdperson's Consciousness,Birdperson's Consciousness,1
+784,Memory Rick,memory.rick@krom.id,Dead,Human,Male,Birdperson's Consciousness,Birdperson's Consciousness,1
+785,Memory Geardude,memory.geardude@krom.id,Dead,Alien,Male,Birdperson's Consciousness,Birdperson's Consciousness,1
+786,Birdperson & Tammy's Child,birdperson.child@krom.id,Alive,Humanoid,Female,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+787,Two Crows,two.crows@krom.id,Alive,Animal,unknown,Earth (Replacement Dimension),Rick and Two Crows Planet,2
+788,Mr. Cookie President,mr..president@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+789,Nick,nick.nick@krom.id,Dead,Human,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+790,Harold (Garbage Goober),harold.goober)@krom.id,Alive,Alien,Male,unknown,Earth (Replacement Dimension),1
+791,Harold's Wife,harold's.wife@krom.id,Alive,Alien,Female,unknown,Earth (Replacement Dimension),1
+792,Alien Crow,alien.crow@krom.id,Dead,Alien,Male,Avian Planet,Avian Planet,1
+793,Alien Crow,alien.crow@krom.id,Dead,Alien,Female,Avian Planet,Avian Planet,1
+794,Samansky,samansky.samansky@krom.id,Dead,Alien,Male,Normal Size Bug Dimension,Earth (Replacement Dimension),1
+795,Palicki,palicki.palicki@krom.id,Alive,Alien,Male,Normal Size Bug Dimension,Normal Size Bug Dimension,1
+796,Sarge,sarge.sarge@krom.id,Alive,Alien,Male,Normal Size Bug Dimension,Normal Size Bug Dimension,1
+797,Slartivartian,slartivartian.slartivartian@krom.id,Dead,Alien,Male,Slartivart,Slartivart,1
+798,Ferkusian,ferkusian.ferkusian@krom.id,Alive,Alien,Male,Ferkus 9,Ferkus 9,1
+799,Morglutzian,morglutzian.morglutzian@krom.id,Dead,Alien,Male,Morglutz,Morglutz,1
+800,Super Turkey,super.turkey@krom.id,Dead,Humanoid,Male,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+801,7+7 Years Old Morty,7+7.morty@krom.id,unknown,Human,Male,Citadel of Ricks,Citadel of Ricks,1
+802,26 Years Old Morty,26.morty@krom.id,Dead,Human,Male,Citadel of Ricks,Citadel of Ricks,1
+803,40 Years Old Morty,40.morty@krom.id,unknown,Human,Male,Citadel of Ricks,Citadel of Ricks,1
+804,Andy,andy.andy@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+805,Baby Mouse Skin Morty,baby.morty@krom.id,Alive,Human,Male,Citadel of Ricks,Citadel of Ricks,1
+806,Metaphor for Capitalism,metaphor.capitalism@krom.id,Dead,Humanoid,Male,Citadel of Ricks,Citadel of Ricks,1
+807,Beth Sanchez,beth.sanchez@krom.id,Dead,Human,Female,Earth (C-137),Rick's Memories,1
+808,Crow Scare,crow.scare@krom.id,Alive,Humanoid,Male,Rick and Two Crows Planet,Rick and Two Crows Planet,1
+809,Pussifer,pussifer.pussifer@krom.id,Dead,Animal,Male,Rick and Two Crows Planet,Rick and Two Crows Planet,1
+810,Stan Lee Rick,stan.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+811,Re-Build-a-Morty Morty,re-build-a-morty.morty@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+812,Deformed Morty,deformed.morty@krom.id,Dead,Humanoid,Male,Citadel of Ricks,Citadel of Ricks,1
+813,Crow Horse,crow.horse@krom.id,Alive,Robot,unknown,Rick and Two Crows Planet,Earth (Replacement Dimension),1
+814,Bald Rick,bald.rick@krom.id,Dead,Human,Male,unknown,Rick's Memories,1
+815,Punk Rick,punk.rick@krom.id,Dead,Human,Male,unknown,Rick's Memories,1
+816,Party Rick,party.rick@krom.id,Dead,Human,Male,unknown,Rick's Memories,1
+817,Scar Rick,scar.rick@krom.id,Dead,Human,Male,unknown,Rick's Memories,1
+818,Long Hair Rick,long.rick@krom.id,unknown,Human,Male,unknown,Citadel of Ricks,1
+819,Redhead Rick,redhead.rick@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+820,Redhead Morty,redhead.morty@krom.id,Dead,Human,Male,unknown,Citadel of Ricks,1
+821,Gotron,gotron.gotron@krom.id,unknown,Robot,Genderless,Earth (Replacement Dimension),Earth (Replacement Dimension),1
+822,Young Jerry,young.jerry@krom.id,unknown,Human,Male,Earth (Unknown dimension),Earth (Unknown dimension),1
+823,Young Beth,young.beth@krom.id,unknown,Human,Female,Earth (Unknown dimension),Earth (Unknown dimension),1
+824,Young Beth,young.beth@krom.id,unknown,Human,Female,Earth (Unknown dimension),Earth (Unknown dimension),1
+825,Young Jerry,young.jerry@krom.id,unknown,Human,Male,Earth (Unknown dimension),Earth (Unknown dimension),1
+826,Butter Robot,butter.robot@krom.id,Alive,Robot,Genderless,Earth (Replacement Dimension),Earth (Replacement Dimension),1
