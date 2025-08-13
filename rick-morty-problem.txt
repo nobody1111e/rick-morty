@@ -57,6 +57,7 @@ Requirements
      ...
    }
    - alive_share = alive_count / total_count (rounded to 2–3 decimals)
+   - the stat comes from status, the status can only have this value: 'Alive' || 'unknown' || 'Dead'
 
 Example CSV or txt Output
 id,name,email,status,species,gender,origin_name,location_name,episode_count
