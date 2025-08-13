@@ -46,7 +46,7 @@ Requirements
    - origin_name = origin.name
    - location_name = location.name
    - episode_count = number of episodes the character appears in
-4. Logs a origin summary to the console in JSON format:
+4. Log an origin summary to the console in JSON format:
    {
      "Earth (C-137)": {
        "alive_count": 100,
